@@ -1,0 +1,24 @@
+{
+  "name": "notifr",
+  "version": "1.0.0",
+  "description": "A tiny javascript library, which manages all kinds of notifications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danishkumar63/notifr.git"
+  },
+  "keywords": [
+    "notifbar",
+    "notification",
+    "bar"
+  ],
+  "author": "Danish Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danishkumar63/notifr/issues"
+  },
+  "homepage": "https://github.com/danishkumar63/notifr#readme"
+}
